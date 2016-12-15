@@ -1,10 +1,19 @@
-Quickly review all available resources for Fusion with this reference overview.
-
-Learn the basics of integrating with Fusion the Getting Started guide, or explore the services with your own data in the Playground.
-
+Learn the basics of integrating with Fusion or explore the services with your own data in the Playground.
+<table style="width:100%">
+  <tr>
+    <th>Data Element Name</th>
+    <th>Type</th> 
+    <th>Definition</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr> 
+</table>
 
 ### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page beforesdf publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
 ### Creating pages manually
 If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
