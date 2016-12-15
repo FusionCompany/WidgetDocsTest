@@ -1,4 +1,4 @@
-Learn the basics of integrating with Fusion or explore the services with your own data in the Playground.
+Learn the basics of integrating with Fusion or explore the services with your own data in the <li>Playground</li>>.
 <table style="width:100%">
   <tr>
     <th>Data Element Name</th>
