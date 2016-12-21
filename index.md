@@ -6,7 +6,7 @@ Learn the basics of integrating with Fusion or explore the services with your ow
     <th>Definition</th>     
   </tr>
   <tr>
-    <td>GetOptimizedOffers()</td>
+    <td>[GetOptimizedOffers](http:GetOptimizedOffer.md)()</td>
     <td>Retrieves optimized offers from the Fusion Optimization Engine</td>     
   </tr> 
     <tr>
