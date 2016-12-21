@@ -10,10 +10,19 @@ Learn the basics of integrating with Fusion or explore the services with your ow
     <td>Retrieves optimized offers from the Fusion Optimization Engine</td>     
   </tr> 
     <tr>
-    <td>()</td>
+    <td>GetOfferState()</td>
     <td></td>     
   </tr> 
-
+    <tr>
+    <td>GetSelectedOfferState()</td>
+    <td></td>     
+  </tr>     <tr>
+    <td>GetCXID()</td>
+    <td></td>     
+  </tr> <p>     <tr>
+    <td>RenderedFallbackOffer()</td>
+    <td></td>     
+  </tr> 
 </table>
 
 Data 
