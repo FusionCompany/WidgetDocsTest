@@ -1,5 +1,7 @@
 Learn the basics of integrating with Fusion or explore the services with your own data in the Playground.
 
+[GetOptimizedOffers] (https://fusioncompany.github.io/WidgetDocsTest/GetOptimizedOffer.md)
+
 <table style="width:100%">
   <tr>
     <th>Function Name</th>
@@ -19,7 +21,7 @@ Learn the basics of integrating with Fusion or explore the services with your ow
   </tr>     <tr>
     <td>GetCXID()</td>
     <td></td>     
-  </tr> <p>     <tr>
+  </tr>     <tr>
     <td>RenderedFallbackOffer()</td>
     <td></td>     
   </tr> 
