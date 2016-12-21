@@ -11,6 +11,10 @@ Learn the basics of integrating with Fusion or explore the services with your ow
     <td>[GetOptimizedOffers] (https://fusioncompany.github.io/WidgetDocsTest/GetOptimizedOffer.md)</td>
     <td>Retrieves optimized offers from the Fusion Optimization Engine</td>     
   </tr> 
+  <tr>
+  <td><a href="https://fusioncompany.github.io/WidgetDocsTest/GetOptimizedOffer.md">GetOptimizedOffers </a></td>
+    <td>Retrieves optimized offers from the Fusion Optimization Engine</td>     
+  </tr> 
     <tr>
     <td>GetOfferState()</td>
     <td></td>     
@@ -28,6 +32,7 @@ Learn the basics of integrating with Fusion or explore the services with your ow
 </table>
 
 Data 
+
 ### Designer Templates
 Basic steps for integration
 Step 1
